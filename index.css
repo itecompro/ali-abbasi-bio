@@ -1,11 +1,8 @@
-.header {
+.yellow-header .row {
     background-color: #fddb01;
-    width: 100%;
-    height: 200px;
-    text-align: center;
-    padding-top: 40px;
-    font-size: 40pt;
+    font-size: 25pt;
     font-weight: bold;
+    height: 200px;
 }
 
 .body {
@@ -14,19 +11,22 @@
     z-index: 101;
 }
 
-.body .box {
+.body .col {
     background-color: white;
 }
 
 .yellow-footer {
-    background-color: #fddb01;
     position: relative;
     margin-top: -40px;
     z-index: 100;
+}
+
+.yellow-footer .row {
+    background-color: #fddb01;
     height: 80px;
 }
 
-.footer {
+.dark-footer .row {
     background-color: #232227;
     color: white;
 }
