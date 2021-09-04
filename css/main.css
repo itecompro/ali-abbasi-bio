@@ -6,17 +6,11 @@
 }
 
 .body {
-    position: relative;
     margin-top: -50px;
     z-index: 101;
 }
 
-.body .col {
-    background-color: white;
-}
-
 .yellow-footer {
-    position: relative;
     margin-top: -40px;
     z-index: 100;
 }
@@ -28,5 +22,4 @@
 
 .dark-footer .row {
     background-color: #232227;
-    color: white;
 }
