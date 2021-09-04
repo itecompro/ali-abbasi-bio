@@ -1,25 +1,33 @@
-.yellow-header .row {
+.x-yellow-header .row {
     background-color: #fddb01;
     font-size: 25pt;
     font-weight: bold;
     height: 200px;
 }
 
-.body {
+.x-body {
     margin-top: -50px;
     z-index: 101;
 }
 
-.yellow-footer {
+.x-yellow-footer {
     margin-top: -40px;
     z-index: 100;
 }
 
-.yellow-footer .row {
+.x-yellow-footer .row {
     background-color: #fddb01;
     height: 80px;
 }
 
-.dark-footer .row {
+.x-dark-footer .row {
     background-color: #232227;
+}
+
+.x-dark-footer .x-social {
+    font-size: 13px;
+}
+
+.x-dark-footer .x-copyright {
+    font-size: 12px;
 }
