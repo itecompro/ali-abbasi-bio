@@ -1,3 +1,9 @@
+h3 {
+    border-bottom: 2px solid #232227;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
 .x-yellow-header .row {
     background-color: #fddb01;
     font-size: 25pt;
