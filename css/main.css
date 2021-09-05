@@ -4,6 +4,10 @@ h3 {
     margin-bottom: 15px;
 }
 
+.x-max-width {
+    max-width: 1000px;
+}
+
 .x-yellow-header .row {
     background-color: #fddb01;
     font-size: 25pt;
