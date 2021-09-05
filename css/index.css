@@ -1,3 +1,7 @@
+.x-body > .row > .col-12 {
+    max-width: 1000px;
+}
+
 .x-yellow-header .x-name {
 
 }
