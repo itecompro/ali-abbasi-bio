@@ -4,6 +4,10 @@ h3 {
     margin-bottom: 15px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .x-max-width {
     max-width: 1200px;
 }
