@@ -2,14 +2,11 @@
     max-width: 1000px;
 }
 
+.x-yellow-header .row {
+    font-size: 10pt;
+    height: 250px;
+}
+
 .x-yellow-header .x-name {
-
-}
-
-.x-yellow-header .x-university-name {
-    font-size: 13px;
-}
-
-.x-yellow-header .x-keyword {
-    font-size: 13px;
+    font-size: 24pt;
 }
