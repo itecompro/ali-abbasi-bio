@@ -6,3 +6,13 @@
 .x-background .x-name {
     font-size: 24pt;
 }
+
+.x-background .x-tags {
+    color: #7a7a7a;
+}
+
+@media (min-width: 576px) {
+    .x-background .x-tags {
+        color: #a0a0a0;
+    }
+}

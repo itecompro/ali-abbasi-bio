@@ -17,8 +17,7 @@ a {
 }
 
 .x-background {
-    color: white;
-    background-color: #1abbe3;
+    background-color: #fddb01;
 }
 
 .x-background .row {
@@ -29,6 +28,7 @@ a {
 
 @media (min-width: 576px) {
     .x-background {
+        color: white;
         background-image: url('../img/background.jpg');
         background-repeat: no-repeat;
         background-position: top center;
