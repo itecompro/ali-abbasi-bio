@@ -12,10 +12,24 @@ a {
     max-width: 1200px;
 }
 
-.x-yellow-header .row {
-    background-color: #fddb01;
+.x-background {
+    color: white;
+    background-color: #1abbe3;
+}
+
+.x-background .row {
+    /* background-color: #fddb01; */
     font-size: 25pt;
     height: 200px;
+}
+
+@media (min-width: 576px) {
+    .x-background {
+        background-image: url('../img/background.jpg');
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: 100%;
+    }
 }
 
 .x-body {
