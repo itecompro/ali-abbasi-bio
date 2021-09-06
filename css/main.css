@@ -41,6 +41,14 @@ a {
     font-size: 13px;
 }
 
+.x-dark-footer .x-social a {
+    color: white;
+}
+
+.x-dark-footer .rounded-pill {
+    width: 120px;
+}
+
 .x-dark-footer .x-copyright {
     font-size: 12px;
 }
