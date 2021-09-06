@@ -51,6 +51,12 @@ a {
     height: 80px;
 }
 
+@media (min-width: 576px) {
+    .x-yellow-footer .row {
+        background-color: #232227;
+    }
+}
+
 .x-dark-footer .row {
     background-color: #232227;
 }
