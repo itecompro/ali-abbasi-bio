@@ -6,3 +6,7 @@
 .x-yellow-header .x-name {
     font-size: 24pt;
 }
+
+.x-dark-footer .x-social a {
+    color: white;
+}
